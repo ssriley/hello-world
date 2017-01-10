@@ -1,4 +1,3 @@
 # hello-world
-hello world start
-I like to kayak.
+hello world
 I like to eat pizza.
